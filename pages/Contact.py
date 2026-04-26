@@ -15,4 +15,4 @@ if st.button("Send Message"):
 st.markdown("### Social Links")
 
 st.write("- GitHub: hhttps://github.com/glayzamaequining-bot")
-st.write("- Facebook: https://facebook.com/")
+st.write("- Facebook: https://facebook.com/Glaiza Mae Distura")
